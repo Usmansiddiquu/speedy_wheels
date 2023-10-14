@@ -1,0 +1,49 @@
+body {
+    background: 
+    linear-gradient(109.6deg, rgb(10, 10, 10) 11.2%, rgb(132, 104, 104) 100.2%);
+    font-family: serif;
+    color: #E5E4E2	!important
+}
+
+.container {
+    max-width: 900px;
+    padding: 40px;
+}
+
+.logo {
+    height: 90px;
+    width: 120px;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+h1:hover{
+       color:  #dfce8c ;
+
+}
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.section-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.section-description {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
